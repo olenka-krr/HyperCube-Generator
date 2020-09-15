@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1569280029 source:e:\science\hypercubegenerator\hypercubegen\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	"dhasse.h"
+	"vp_lib.h"
+
+1600201487 e:\science\hypercubegenerator\hypercubegen\dhasse.h
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+
+1568972397 e:\science\hypercubegenerator\hypercubegen\vp_lib.h
+
